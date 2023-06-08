@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
+This project is a simple example of how we can consume one API, in this case we use [API CoinGecko](https://www.coingecko.com/es/api).
+
+On this project we use Angular JS + [Tailwind](https://tailwindcss.com/), here you have one capture:
+
+(https://github.com/Gerarca/AngularJS-API-CoinGecko-/blob/main/docs/capture.png?raw=true)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
