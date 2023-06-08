@@ -6,7 +6,7 @@ This project is a simple example of how we can consume one API, in this case we 
 
 On this project we use Angular JS + [Tailwind](https://tailwindcss.com/), here you have one capture:
 
-(https://github.com/Gerarca/AngularJS-API-CoinGecko-/blob/main/docs/capture.png?raw=true)
+![capture](https://github.com/Gerarca/AngularJS-API-CoinGecko-/blob/main/docs/capture.png?raw=true)
 
 ## Development server
 
